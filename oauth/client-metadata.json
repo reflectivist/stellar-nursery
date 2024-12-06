@@ -1,0 +1,12 @@
+{
+  "client_id": "https://reflectivist.github.io/bsky-stellar-nursery/oauth/client-metadata.json",
+  "application_type": "native",
+  "client_name": "bsky-stellar-nursery",
+  "client_uri": "https://reflectivist.github.io/bsky-stellar-nursery",
+  "dpop_bound_access_tokens": true,
+  "grant_types": ["authorization_code", "refresh_token"],
+  "redirect_uris": ["bsky-stellar-nursery://oauth/callback"],
+  "response_types": ["code"],
+  "scope": "atproto",
+  "token_endpoint_auth_method": "none"
+}
